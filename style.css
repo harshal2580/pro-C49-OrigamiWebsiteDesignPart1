@@ -1,0 +1,17 @@
+h1 {
+    color:blue;
+}
+/* * {
+    border:solid;
+}*/
+
+.header {
+    background-color: palegreen;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    background-color: lightblue;
+    justify-content: space-evenly;    
+}
